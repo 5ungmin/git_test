@@ -11,6 +11,6 @@ setup(
 	packages=['sungmin_lib'],
 	zip_safe=False,
 	install_requires=[
-		'numpy==1.18.3'
+		# 'numpy==1.18.3'
 	]
 )
